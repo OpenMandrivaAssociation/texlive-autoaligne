@@ -1,6 +1,6 @@
 Name:		texlive-autoaligne
 Version:	56966
-Release:	1
+Release:	2
 Summary:	Align terms and members in math expressions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autoaligne
