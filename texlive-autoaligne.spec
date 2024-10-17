@@ -3,7 +3,7 @@ Version:	66655
 Release:	1
 Summary:	Align terms and members in math expressions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autoaligne
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/autoaligne
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autoaligne.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autoaligne.doc.r%{version}.tar.xz
